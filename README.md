@@ -1,1 +1,1 @@
-"Welcome to Recruiter Scraper!" 
+Welcome to Recruiter Scraper!
